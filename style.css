@@ -1,0 +1,39 @@
+*{
+    margin-top:10px;padding: 0;
+}
+.container{
+    justify-content: center;
+    text-align: center;
+    border: 10px solid white;
+    background-color: rgb(7, 7, 7);
+}
+
+.row1 button{
+    padding: 14px;
+    margin: 8px;
+    text-align: center;
+    background-color: rgb(246, 145, 21);
+    font-weight: bolder;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.row button{
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(214, 116, 18);
+    font-weight: bolder;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+input{
+    font-size: larger;
+    height: 50px;
+    width: 235px;
+    background-color: rgb(238, 135, 17);
+    font-weight: bolder;
+    border: 2px solid white;
+    border-radius: 5px;
+}
